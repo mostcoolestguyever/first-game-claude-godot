@@ -10,3 +10,5 @@ A new Godot 4.6 game project. It currently holds only the default project files 
 
 ## Rules
 
+- Split work into small stages. After each stage, stop so the user can play-test and debug it in Godot before continuing.
+
